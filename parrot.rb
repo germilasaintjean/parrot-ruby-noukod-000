@@ -1,9 +1,8 @@
-def parrot(phrase="Pretty bird")
+def parrot(Squawk)
+puts"#{Squawk}!"
+end
+def Pretty_bird (phrase="Squawk!")
   puts "#{phrase}"
-
   end
-
-
-
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
